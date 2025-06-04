@@ -1,23 +1,23 @@
-Este projeto consiste em uma aplicação web simples para cadastro de usuários. A aplicação possui um formulário de cadastro no frontend (HTML/CSS/JS) e um backend desenvolvido com Node.js e Express, que recebe os dados e os armazena em um banco de dados MySQL.
+# 📝 Projeto: Tela de Cadastro com Node.js, Express e MySQL
 
-⚙️ Tecnologias utilizadas:
-HTML5 / CSS3 / JavaScript (frontend)
+Este projeto é uma aplicação web simples com uma **tela de cadastro de usuários**, utilizando **HTML/CSS/JS no frontend** e **Node.js com Express** no backend. Os dados são enviados via requisição HTTP e armazenados em um banco de dados **MySQL**.
 
-Node.js com Express (backend)
+---
 
-MySQL (banco de dados)
+## 🚀 Tecnologias Utilizadas
 
-Body-parser (para tratar requisições POST)
+- HTML5 / CSS3 / JavaScript
+- Node.js
+- Express
+- MySQL
+- Body-parser (middleware)
 
-📌 Funcionalidades:
-Validação de campos obrigatórios (nome, e-mail, senha)
+---
 
-Confirmação de e-mail
+## 💻 Funcionalidades
 
-Envio de dados do formulário via fetch (AJAX)
-
-Armazenamento dos dados no banco de dados MySQL
-
-🚧 Status:
-Projeto em desenvolvimento.
-
+- Formulário de cadastro com campos: nome, e-mail, confirmação de e-mail e senha.
+- Validação de preenchimento dos campos obrigatórios.
+- Verificação de e-mail duplicado.
+- Armazenamento de dados no banco MySQL.
+- Mensagens de feedback para o usuá
