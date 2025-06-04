@@ -20,4 +20,6 @@ Este projeto é uma aplicação web simples com uma **tela de cadastro de usuár
 - Validação de preenchimento dos campos obrigatórios.
 - Verificação de e-mail duplicado.
 - Armazenamento de dados no banco MySQL.
-- Mensagens de feedback para o usuá
+- Mensagens de feedback para o usuário.
+
+---
